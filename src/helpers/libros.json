@@ -1,0 +1,40 @@
+{
+  "libros": [
+    {
+      "nombre": "Harry Potter 1 'La piedra filosofal'",
+      "id": 1,
+      "autor": "J. K. Rowling",
+      "anio": 1998
+    },
+    {
+      "nombre": "Harry Potter 2 'La camara secreta'",
+      "id": 2,
+      "autor": "J. K. Rowling",
+      "anio": 1999
+    },
+    {
+      "nombre": "Harry Potter 3 'El prisionero de Askaban'",
+      "id": 3,
+      "autor": "J. K. Rowling",
+      "anio": 2000
+    },
+    {
+      "nombre": "Harry Potter 4 'El caliz de fuego'",
+      "id": 4,
+      "autor": "J. K. Rowling",
+      "anio": "2003"
+    },
+    {
+      "nombre": "Harry Potter 6 'El principe mestizo'",
+      "id": 6,
+      "autor": "J. K. Rowling",
+      "anio": 2003
+    },
+    {
+      "nombre": "Harry Potter 6 'La orden del fenix'",
+      "anio": "1961",
+      "autor": "J. K. Rowling",
+      "id": 7
+    }
+  ]
+}

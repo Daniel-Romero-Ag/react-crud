@@ -1,0 +1,40 @@
+.crud--option {
+    list-style: none;
+    margin-top: 10px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    height: 100%;
+    padding-left: 0;
+    width: 90%;
+}
+
+@media (min-width: 600px) {
+    .crud--option {
+        width: 45%;
+    }
+}
+
+.crud--option:hover {
+    transform: translateX(2px);
+    box-shadow: 5px 5px 2px 0px #c63637;
+}
+
+.crud--option:nth-child(odd) {
+    margin-right: 5%;
+}
+
+.crud--option p {
+    margin: 0;
+    padding: 5px 0;
+}
+
+.crud--option p:first-child {
+    border-radius: 10px 10px 0 0;
+    background-color: red;
+}
+
+.crud--option p:nth-child(2) {
+    background-color: blueviolet;
+    border-radius: 0 0 0 10px;
+}

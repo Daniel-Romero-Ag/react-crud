@@ -1,0 +1,17 @@
+[{
+        "opcion": "Create",
+        "descripcion": "Crea un elemento en una base de datos, utiliza el metodo POST"
+    },
+    {
+        "opcion": "Read",
+        "descripcion": "Lee un elemento o un grupo de elementos en una base de datos, utiliza el metodo GET"
+    },
+    {
+        "opcion": "Update",
+        "descripcion": "Actualiza un elemento en una base de datos, utiliza el metodo PUT"
+    },
+    {
+        "opcion": "Delete",
+        "descripcion": "Borra un elemento en una base de datos, utiliza el metodo DELETE"
+    }
+]

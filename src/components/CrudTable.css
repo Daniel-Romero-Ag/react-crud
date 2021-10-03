@@ -1,0 +1,16 @@
+.crud--table {
+    background-color: #ec5637;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 25px;
+    border-spacing: 0;
+}
+
+.crud--table ul {
+    padding: 0;
+}
+
+.crud--table th {
+    border-bottom: 4px solid #c63637;
+    padding: 10px;
+}

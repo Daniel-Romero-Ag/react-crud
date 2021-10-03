@@ -1,0 +1,23 @@
+.crud--table--row:nth-child(odd) {
+    background-color: #f9635c;
+}
+
+.crud--table--row:nth-child(even) {
+    background-color: #ff7c70;
+}
+
+.crud--table--row td button {
+    background-color: red;
+    color: white;
+}
+
+.crud--table--row a {
+    text-decoration: none;
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.crud--table--row ul a:first-child {
+    margin-right: 5px;
+}

@@ -1,0 +1,11 @@
+@media (min-width:950px) {
+    .what--is div {
+        display: inline-block;
+        vertical-align: top;
+        width: 50%;
+    }
+}
+
+.what--is ul {
+    padding: 0;
+}

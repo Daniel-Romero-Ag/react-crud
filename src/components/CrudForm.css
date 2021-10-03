@@ -1,0 +1,49 @@
+.campo label {
+    display: block;
+    font-size: 1.3rem;
+    color: #c20000;
+}
+
+.campo input[type="text"],
+.campo input[type="number"] {
+    background-color: #ff7676;
+    width: 90%;
+    font-size: 1.3rem;
+    height: 1.6rem;
+    color: red
+}
+
+.formulario--crud form {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.formulario--crud input::placeholder {
+    color: red;
+    font-size: 1.3rem;
+}
+
+.formulario--crud {
+    background-color: #ff4040;
+    padding: 10px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+.formulario--crud input[type="submit"],
+.formulario--crud input[type="reset"] {
+    background-color: red;
+    padding: 5px 10px;
+    margin-top: 10px;
+    font-size: 1.3rem;
+    width: 30%;
+    max-width: 100%;
+}
+
+.formulario--crud div:last-of-type {
+    text-align: center;
+}
+
+.formulario--crud h2 {
+    color: #c20000;
+}
